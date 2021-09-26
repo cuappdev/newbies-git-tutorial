@@ -1,6 +1,14 @@
+<<<<<<< HEAD
 bendcdccdcdc
 notepad > vimdcd
 windows superiorcdcdcdc
 hi BEN!dcdc
 
 trying to cause a conflcit
+=======
+ben
+notepad > vim
+windows superior
+hi BEN!
+(: (: (:
+>>>>>>> 741ae345f565081c176372e01985b1ef91a28a95
