@@ -1,2 +1,7 @@
-ben
+trying to cause a conflcit
+I want to have a merge conflict
+(: <> <><><><><
+notepad > vim
+windows superior
 hi BEN!
+(: (: 
